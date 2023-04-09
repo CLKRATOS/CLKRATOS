@@ -3,7 +3,7 @@
   <img align="right" height="300" width="300" alt="eliedson" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
 
 <ul>
- <li><em>Front-End Desenvolvedor</em></li>
+ <li><em> Querendo ser um Desenvolvedor</em></li>
  <li><em>Moro no Brasil, Fortaleza-Ce</em></li>
 </ul>
   
@@ -17,11 +17,12 @@
  
 <div style="display: inline_block" > 
   <div  style="display: flex;"   >
-   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1d724075-c7ab-4f96-8ab9-34e5316d6618/df9ysbx-4ee21234-8a58-4a3f-8b79-1f9a1d840679.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkNzI0MDc1LWM3YWItNGY5Ni04YWI5LTM0ZTUzMTZkNjYxOFwvZGY5eXNieC00ZWUyMTIzNC04YTU4LTRhM2YtOGI3OS0xZjlhMWQ4NDA2NzkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xMBUzFHfLSryq3UMoM8gTH-bPbLQvFSsm1kiu-xLCtU" width='60px' height='80px'> <em>Front-End</em>
+   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1d724075-c7ab-4f96-8ab9-34e5316d6618/df9ysbx-4ee21234-8a58-4a3f-8b79-1f9a1d840679.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkNzI0MDc1LWM3YWItNGY5Ni04YWI5LTM0ZTUzMTZkNjYxOFwvZGY5eXNieC00ZWUyMTIzNC04YTU4LTRhM2YtOGI3OS0xZjlhMWQ4NDA2NzkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xMBUzFHfLSryq3UMoM8gTH-bPbLQvFSsm1kiu-xLCtU" width='60px' height='80px'> <em>Ferramentas</em>
    <div >
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
   <br><br>
  
