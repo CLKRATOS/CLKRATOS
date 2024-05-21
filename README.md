@@ -1,6 +1,6 @@
 
-<h2  ><img src="https://monophy.com/media/WoXL1l1Sy0yElOsawv/monophy.gif" width='35px' height="30px"> <em>Olá,Eu me chamo Cleyton sousa <em></h2>
-  <img align="right" height="300" width="300" alt="eliedson" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
+<h2  ><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='30px' height='23px'> <em>Olá,Eu me chamo Cleyton sousa <em></h2>
+ <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611f2f07e74a99606c66f0e003a50699283aa810b77&rid=giphy.gif&ct=g" width="400" align="right"></h2>
 
 <ul>
  <li><em> Querendo ser um Desenvolvedor</em></li>
